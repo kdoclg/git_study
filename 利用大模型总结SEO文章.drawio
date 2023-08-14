@@ -1,9 +1,69 @@
-<mxfile host="app.diagrams.net" modified="2023-08-14T02:34:58.440Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" version="21.6.8" etag="15xXXnySL7EVxSzG1y5h" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-14T03:04:14.133Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="X2_XIiwIvdKhITZq4qOD" version="21.6.8" type="github">
   <diagram name="第 1 页" id="3JGEkbxYB8eR9lTnZSir">
-    <mxGraphModel>
+    <mxGraphModel dx="985" dy="553" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="P6E9gaAujzoY7Z_B9MhC-1" value="AiGenerateService(HSF)&lt;br&gt;与大模型直接交互" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="380" y="230" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="P6E9gaAujzoY7Z_B9MhC-2" value="SeoArticleProcessService(HSF)&lt;br&gt;对SEO文章处理，总结" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="149" y="230" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="P6E9gaAujzoY7Z_B9MhC-3" value="OpenAI&lt;br&gt;ChatGPT" style="shape=mxgraph.cisco.servers.www_server;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="634" y="230" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="P6E9gaAujzoY7Z_B9MhC-5" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="240" as="sourcePoint" />
+            <mxPoint x="630" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P6E9gaAujzoY7Z_B9MhC-6" value="HTTP request" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="P6E9gaAujzoY7Z_B9MhC-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P6E9gaAujzoY7Z_B9MhC-7" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="630" y="260" as="sourcePoint" />
+            <mxPoint x="530" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P6E9gaAujzoY7Z_B9MhC-8" value="json" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="P6E9gaAujzoY7Z_B9MhC-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P6E9gaAujzoY7Z_B9MhC-11" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="P6E9gaAujzoY7Z_B9MhC-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="255" as="sourcePoint" />
+            <mxPoint x="370" y="254.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P6E9gaAujzoY7Z_B9MhC-12" value="" style="shape=mxgraph.cisco.servers.storage_server;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="300" width="54" height="83" as="geometry" />
+        </mxCell>
+        <mxCell id="P6E9gaAujzoY7Z_B9MhC-13" value="SeoArticleProcessDailyTask" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="149" y="330" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="P6E9gaAujzoY7Z_B9MhC-14" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="238.5" y="330" as="sourcePoint" />
+            <mxPoint x="238.5" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P6E9gaAujzoY7Z_B9MhC-15" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="355" as="sourcePoint" />
+            <mxPoint x="400" y="355" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P6E9gaAujzoY7Z_B9MhC-16" value="" style="shape=mxgraph.cisco.servers.storage_server;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="457" y="300" width="54" height="83" as="geometry" />
+        </mxCell>
+        <mxCell id="P6E9gaAujzoY7Z_B9MhC-17" value="SEO文章论坛" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="417" y="390" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P6E9gaAujzoY7Z_B9MhC-18" value="&lt;div class=&quot;lake-content&quot;&gt;ScheduleX任务每天定时爬取最新文章进行总结生成摘要并发送到小组群&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="383" width="160" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

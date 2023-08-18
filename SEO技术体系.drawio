@@ -1,52 +1,52 @@
-<mxfile host="app.diagrams.net" modified="2023-08-18T09:12:32.031Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="tGQ9DjO1bz4ocl5E1DiQ" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-18T09:13:49.448Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="K0OcVuDZ8eBEOlytkjVC" version="21.6.8" type="github">
   <diagram name="第 1 页" id="VjWUJtbHXDozwWTi7-DS">
     <mxGraphModel dx="871" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="M3oUh2K3aRKIxOvnGzWY-2" value="SEO承接系统" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="M3oUh2K3aRKIxOvnGzWY-2" value="SEO承接系统" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="355" y="280" width="90" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="M3oUh2K3aRKIxOvnGzWY-3" value="词库系统" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="M3oUh2K3aRKIxOvnGzWY-3" value="词库系统" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="520" y="280" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="M3oUh2K3aRKIxOvnGzWY-4" value="sitemap系统" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="M3oUh2K3aRKIxOvnGzWY-4" value="sitemap系统" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="197" y="387" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="M3oUh2K3aRKIxOvnGzWY-5" value="内链系统 (ilink)" style="ellipse;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="M3oUh2K3aRKIxOvnGzWY-5" value="内链系统 (ilink)" style="ellipse;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="180" y="280" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="M3oUh2K3aRKIxOvnGzWY-6" value="SEO实验&amp;amp;分析系统" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+        <mxCell id="M3oUh2K3aRKIxOvnGzWY-6" value="SEO实验&amp;amp;分析系统" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="339.5" y="443" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="M3oUh2K3aRKIxOvnGzWY-7" value="外链系统" style="ellipse;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="M3oUh2K3aRKIxOvnGzWY-7" value="外链系统" style="ellipse;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="431" y="180" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="M3oUh2K3aRKIxOvnGzWY-8" value="点击调权系统" style="ellipse;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+        <mxCell id="M3oUh2K3aRKIxOvnGzWY-8" value="点击调权系统" style="ellipse;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="502" y="386" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="M3oUh2K3aRKIxOvnGzWY-9" value="内容平台 (reads)" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="1">
+        <mxCell id="M3oUh2K3aRKIxOvnGzWY-9" value="内容平台 (reads)" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="271" y="180" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="M3oUh2K3aRKIxOvnGzWY-10" value="&lt;span style=&quot;text-align: right; background-color: initial; font-size: 11px;&quot;&gt;建立多维度抽象词库模型，&lt;/span&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;p style=&quot;line-height: 120%; margin-top: 0pt; margin-bottom: 0pt; text-align: right; direction: ltr; unicode-bidi: embed; word-break: normal; font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px; background-color: initial;&quot;&gt;灵活可用的挖词、选词、指标更新闭环&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="M3oUh2K3aRKIxOvnGzWY-10" value="&lt;span style=&quot;text-align: right; background-color: initial; font-size: 12px;&quot;&gt;建立多维度抽象词库模型，&lt;/span&gt;&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;p style=&quot;line-height: 120%; margin-top: 0pt; margin-bottom: 0pt; text-align: right; direction: ltr; unicode-bidi: embed; word-break: normal; font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;灵活可用的挖词、选词、指标更新闭环&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="569" y="318" width="220" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="M3oUh2K3aRKIxOvnGzWY-11" value="&lt;span style=&quot;font-size: 11px; text-align: left; background-color: initial;&quot;&gt;建立支持多搜索引擎、灵活配置的&lt;br&gt;并提供大批量定时周期性更新&lt;/span&gt;&lt;span style=&quot;font-size: 11px; text-align: left; background-color: initial; font-family: Arial;&quot;&gt;sitemap&lt;/span&gt;&lt;span style=&quot;font-size: 11px; text-align: left; background-color: initial; font-family: 微软雅黑;&quot;&gt;服务系统&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="M3oUh2K3aRKIxOvnGzWY-11" value="&lt;span style=&quot;font-size: 12px; text-align: left; background-color: initial;&quot;&gt;建立支持多搜索引擎、灵活配置的&lt;br style=&quot;font-size: 12px;&quot;&gt;并提供大批量定时周期性更新&lt;/span&gt;&lt;span style=&quot;font-size: 12px; text-align: left; background-color: initial; font-family: Arial;&quot;&gt;sitemap&lt;/span&gt;&lt;span style=&quot;font-size: 12px; text-align: left; background-color: initial; font-family: 微软雅黑;&quot;&gt;服务系统&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="56" y="434" width="260" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="M3oUh2K3aRKIxOvnGzWY-12" value="&lt;span style=&quot;text-align: left; background-color: initial; font-size: 11px;&quot;&gt;提供一套外链分发工具，&lt;br&gt;快速在站外进行引流并提升关键词排名&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="M3oUh2K3aRKIxOvnGzWY-12" value="&lt;span style=&quot;text-align: left; background-color: initial; font-size: 12px;&quot;&gt;提供一套外链分发工具，&lt;br style=&quot;font-size: 12px;&quot;&gt;快速在站外进行引流并提升关键词排名&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="480" y="214" width="220" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="M3oUh2K3aRKIxOvnGzWY-13" value="&lt;div style=&quot;text-align: left; font-size: 11px;&quot;&gt;肩负商家后台SEO诊断工具；&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 11px;&quot;&gt;内链仍在，但对应的系统已经移交给了算法&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="M3oUh2K3aRKIxOvnGzWY-13" value="&lt;div style=&quot;text-align: left; font-size: 12px;&quot;&gt;肩负商家后台SEO诊断工具；&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 12px;&quot;&gt;内链仍在，但对应的系统已经移交给了算法&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="47" y="320" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="M3oUh2K3aRKIxOvnGzWY-14" value="&lt;span style=&quot;font-family: 微软雅黑; background-color: initial; font-size: 11px;&quot;&gt;建立基于模拟用户点击&lt;br&gt;行为来提升关键词排名的体系&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="M3oUh2K3aRKIxOvnGzWY-14" value="&lt;span style=&quot;font-family: 微软雅黑; background-color: initial; font-size: 12px;&quot;&gt;建立基于模拟用户点击&lt;br style=&quot;font-size: 12px;&quot;&gt;行为来提升关键词排名的体系&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="555" y="428" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="M3oUh2K3aRKIxOvnGzWY-16" value="&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;font face=&quot;微软雅黑&quot; style=&quot;font-size: 11px;&quot;&gt;建立一套基于数据和实验的&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;font face=&quot;微软雅黑&quot; style=&quot;font-size: 11px;&quot;&gt;分析体系，用于支持SEO优化决策&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="M3oUh2K3aRKIxOvnGzWY-16" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;font face=&quot;微软雅黑&quot; style=&quot;font-size: 12px;&quot;&gt;建立一套基于数据和实验的&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;font face=&quot;微软雅黑&quot; style=&quot;font-size: 12px;&quot;&gt;分析体系，用于支持SEO优化决策&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="305.75" y="489" width="187.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="M3oUh2K3aRKIxOvnGzWY-17" value="&lt;span style=&quot;text-align: left; background-color: initial; font-size: 11px;&quot;&gt;SEO内容底池，可以为外链提供内容&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="M3oUh2K3aRKIxOvnGzWY-17" value="&lt;span style=&quot;text-align: left; background-color: initial; font-size: 12px;&quot;&gt;SEO内容底池，可以为外链提供内容&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="137" y="227" width="200" height="26" as="geometry" />
         </mxCell>
         <mxCell id="M3oUh2K3aRKIxOvnGzWY-20" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.294;entryY=0.996;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.738;exitY=0.053;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="M3oUh2K3aRKIxOvnGzWY-2" target="M3oUh2K3aRKIxOvnGzWY-7">

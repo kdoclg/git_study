@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-18T09:07:08.896Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="aqsEvTQiu5VK5dCpUjSZ" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-18T09:08:12.073Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="ykugepIBr8J-j8f0-PEh" version="21.6.8" type="github">
   <diagram name="第 1 页" id="VjWUJtbHXDozwWTi7-DS">
     <mxGraphModel dx="871" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -29,7 +29,7 @@
           <mxGeometry x="271" y="180" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="M3oUh2K3aRKIxOvnGzWY-10" value="&lt;span style=&quot;text-align: right; background-color: initial; font-size: 11px;&quot;&gt;建立多维度抽象词库模型，&lt;/span&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;p style=&quot;line-height: 120%; margin-top: 0pt; margin-bottom: 0pt; text-align: right; direction: ltr; unicode-bidi: embed; word-break: normal; font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px; background-color: initial;&quot;&gt;灵活可用的挖词、选词、指标更新闭环&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="550" y="320" width="260" height="40" as="geometry" />
+          <mxGeometry x="570" y="320" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="M3oUh2K3aRKIxOvnGzWY-11" value="&lt;span style=&quot;font-size: 11px; text-align: left; background-color: initial;&quot;&gt;建立支持多搜索引擎、灵活配置的并提供大批量定时周期性更新&lt;/span&gt;&lt;span style=&quot;font-size: 11px; text-align: left; background-color: initial; font-family: Arial;&quot;&gt;sitemap&lt;/span&gt;&lt;span style=&quot;font-size: 11px; text-align: left; background-color: initial; font-family: 微软雅黑;&quot;&gt;服务系统&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="80" y="437" width="220" height="40" as="geometry" />

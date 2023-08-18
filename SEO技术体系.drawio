@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-18T09:16:47.901Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="YxxwpctUHKJtV5x3WUXP" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-18T09:18:38.123Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="1amsJWKJnlcdayd74U0e" version="21.6.8" type="github">
   <diagram name="第 1 页" id="VjWUJtbHXDozwWTi7-DS">
     <mxGraphModel dx="871" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -37,8 +37,8 @@
         <mxCell id="M3oUh2K3aRKIxOvnGzWY-12" value="&lt;span style=&quot;text-align: left; background-color: initial; font-size: 12px;&quot;&gt;提供一套外链分发工具，&lt;br style=&quot;font-size: 12px;&quot;&gt;快速在站外进行引流并提升关键词排名&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="480" y="214" width="220" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="M3oUh2K3aRKIxOvnGzWY-13" value="&lt;div style=&quot;text-align: left; font-size: 12px;&quot;&gt;肩负商家后台SEO诊断工具；&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 12px;&quot;&gt;内链仍在，但对应的系统已经移交给了算法&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="47" y="320" width="240" height="40" as="geometry" />
+        <mxCell id="M3oUh2K3aRKIxOvnGzWY-13" value="&lt;div style=&quot;text-align: left; font-size: 12px;&quot;&gt;ilink承载着商家后台SEO诊断工具；&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 12px;&quot;&gt;内链功能仍在，但对应的系统已经移交给了算法&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="16" y="320" width="261" height="40" as="geometry" />
         </mxCell>
         <mxCell id="M3oUh2K3aRKIxOvnGzWY-14" value="&lt;span style=&quot;font-family: 微软雅黑; background-color: initial; font-size: 12px;&quot;&gt;建立基于模拟用户点击&lt;br style=&quot;font-size: 12px;&quot;&gt;行为来提升关键词排名的体系&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="555" y="428" width="170" height="40" as="geometry" />
